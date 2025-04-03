@@ -1,23 +1,22 @@
 ```
-
    ______________________________
- / \                             \.
-|   |                            |.
- \_ |                            |.
-    |     GOSSAMER PROJECT       |.
-    |                            |.
-    |                            |.
-    |         a game by          |.
-    |        claire moon         |.
-    |                            |.
-    |                            |.
-    |                            |.
-    |                            |.
-    |                            |.
-    |                            |.
+ / \                             \
+|   |                            |
+ \_ |                            |
+    |     GOSSAMER PROJECT       |
+    |                            |
+    |                            |
+    |         a game by          |
+    |        claire moon         |
+    |                            |
+    |                            |
+    |                            |
+    |                            |
+    |                            |
+    |                            |
     |   _________________________|___
-    |  /                            /.
-    \_/____________________________/.
+    |  /                            /
+    \_/____________________________/
 
 ```
         
@@ -32,6 +31,3 @@ FOR ANY PURPOSE. **NO ATTRIBUTION IS REQUIRED**. THE LICENSE APPLIES TO ALL
 CODE AND ASSETS UNLESS STATED OTHERWISE.
 
 FOR MORE DETAILS, SEE [LICENSE](LICENSE).
-
-
-#######################################
