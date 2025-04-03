@@ -1,3 +1,0 @@
-EXTERN(_impure_ptr) /* n64brew.dso */
-EXTERN(cos) /* n64brew.dso */
-EXTERN(fprintf) /* n64brew.dso */
